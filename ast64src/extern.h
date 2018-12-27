@@ -349,7 +349,7 @@ extern real CuspMidheaven P((void));
 extern real CuspAscendant P((void));
 extern real CuspEastPoint P((void));
 extern real CuspPlacidus P((real, real, flag));
-extern void HousePlacidus P((void));
+extern void HousePlacidus P((void));  //  宫位
 extern void HouseKoch P((void));
 extern void HouseEqual P((void));
 extern void HouseCampanus P((void));

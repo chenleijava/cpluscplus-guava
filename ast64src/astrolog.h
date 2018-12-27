@@ -677,7 +677,7 @@ enum _aspects {
   cAspect2 = cAspect + aOpp,
 };
 
-/* House systems */
+/* House systems 宫位设置*/
 
 enum _housesystem {
   hsPlacidus      = 0,
@@ -695,7 +695,7 @@ enum _housesystem {
   hsSinewaveRatio = 12,
   hsSinewaveDelta = 13,
   hsWhole         = 14,
-  hsVedic         = 15,
+  hsVedic         = 15,  // 宫位
   hsSripati       = 16,
   hsHorizon       = 17,
   hsAPC           = 18,
@@ -1312,7 +1312,7 @@ typedef struct _UserSettings {
   int   nEphemFactor; /* -E0 */
   int   nArabic;      /* -P */
   int   nRel;         /* 星盘类型  合盘  比较盘 。。。。 */
-  int   nHouseSystem; /* -c */
+  int   nHouseSystem; /* -c 宫位设置*/
   int   nAsp;         /* -A */
   int   objCenter;    /* -h */
   int   nStar;        /* -U */

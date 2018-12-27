@@ -98,6 +98,7 @@ std::string AstrologUtil::relationChart(ChartBaseInfo &chartInfo0,ChartBaseInfo 
     us.fGraphics=fGraphics; //不绘制图片  -- 文本 输出
     us.fAnsiColor=0; // 不输出 彩色 字体 转义
     us.fAnsiChar=0; //ansi 转义输出符号 丢弃
+   // us.nHouseSystem=hsPlacidus;// 宫位设置 todo
 
 
     std::string tmpData;

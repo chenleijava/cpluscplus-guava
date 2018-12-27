@@ -1,0 +1,282 @@
+GET http://127.0.0.1:8080/astrolog?year=2018&mon=12&day=1&hoursMin=18:30&dst=0&timeZone=8&longitude=118E4&latitude=34N56&userName=R&location=guangzhou&rsc=2&year0=2018&mon0=12&day0=1&hoursMin0=18:30&dst0=0&timeZone0=-8&longitude0=118E4&latitude0=34N56&userName0=CD&location0=guangzhou
+
+<> 2018-12-27T061159.200.json
+
+###
+
+GET http://127.0.0.1:8080/astrolog?year=2018&mon=12&day=1&hoursMin=18:30&dst=0&timeZone=-8&longitude=118E4&latitude=34N56&userName=CD&location=guangzhou&rsc=0
+
+<> 2018-12-27T061110.200.json
+
+###
+
+GET http://127.0.0.1:8080/astrolog?year=2018&mon=12&day=1&hoursMin=18:30&dst=0&timeZone=-8&longitude=118E4&latitude=34N56&userName=CD&location=guangzhou&rsc=0
+
+<> 2018-12-27T055546.200.json
+
+###
+
+GET http://127.0.0.1:8080/astrolog?year=2018&mon=12&day=1&hoursMin=18:30&dst=0&timeZone=-8&longitude=118E4&latitude=34N56&userName=CD&location=guangzhou&rsc=0
+
+<> 2018-12-27T054847.200.json
+
+###
+
+GET http://127.0.0.1:8080/astrolog?year=2018&mon=12&day=1&hoursMin=18:30&dst=0&timeZone=-8&longitude=118E4&latitude=34N56&userName=CD&location=guangzhou&rsc=0
+
+<> 2018-12-27T052341.200.json
+
+###
+
+GET http://127.0.0.1:8080/astrolog?year=2018&mon=12&day=1&hoursMin=18:30&dst=0&timeZone=-8&longitude=118E4&latitude=34N56&userName=CD&location=guangzhou&rsc=0
+
+<> 2018-12-27T052310.200.json
+
+###
+
+GET http://127.0.0.1:8080/astrolog?year=2018&mon=12&day=1&hoursMin=18:30&dst=0&timeZone=-8&longitude=118E4&latitude=34N56&userName=CD&location=guangzhou&rsc=0
+
+<> 2018-12-27T051213.200.json
+
+###
+
+GET http://127.0.0.1:8080/astrolog?year=2018&mon=12&day=1&hoursMin=18:30&dst=0&timeZone=-8&longitude=118E4&latitude=34N56&userName=CD&location=guangzhou&rsc=0
+
+<> 2018-12-27T051018.200.json
+
+###
+
+GET http://127.0.0.1:8080/astrolog?year=2018&mon=12&day=1&hoursMin=18:30&dst=0&timeZone=-8&longitude=118E4&latitude=34N56&userName=CD&location=guangzhou&rsc=0
+
+<> 2018-12-27T050808.200.json
+
+###
+
+GET http://127.0.0.1:8080/astrolog?year=2018&mon=12&day=1&hoursMin=18:30&dst=0&timeZone=-8&longitude=118E4&latitude=34N56&userName=CD&location=guangzhou&rsc=0
+
+<> 2018-12-27T042331.200.json
+
+###
+
+GET http://127.0.0.1:8080/astrolog?year=2018&mon=12&day=1&hoursMin=18:30&dst=0&timeZone=8&longitude=118E4&latitude=34N56&userName=R&location=guangzhou&rsc=2&year0=2018&mon0=12&day0=1&hoursMin0=18:30&dst0=0&timeZone0=-8&longitude0=118E4&latitude0=34N56&userName0=CD&location0=guangzhou
+
+<> 2018-12-27T042246.200.json
+
+###
+
+GET http://127.0.0.1:8080/astrolog?year=2018&mon=12&day=1&hoursMin=18:30&dst=0&timeZone=8&longitude=118E4&latitude=34N56&userName=R&location=guangzhou&rsc=2&year0=2018&mon0=12&day0=1&hoursMin0=18:30&dst0=0&timeZone0=8&longitude0=118E4&latitude0=34N56&userName0=CD&location0=guangzhou
+
+<> 2018-12-27T041159.200.json
+
+###
+
+GET http://127.0.0.1:8080/astrolog?year=2018&mon=12&day=1&hoursMin=18:30&dst=0&timeZone=8&longitude=118E4&latitude=34N56&userName=R&location=guangzhou&rsc=2&year0=2018&mon0=12&day0=1&hoursMin0=18:30&dst0=0&timeZone0=8&longitude0=118E4&latitude0=34N56&userName0=CD&location0=guangzhou
+
+<> 2018-12-27T041156.200.json
+
+###
+
+GET http://127.0.0.1:8080/astrolog?year=2018&mon=12&day=1&hoursMin=18:30&dst=0&timeZone=8&longitude=118E4&latitude=34N56&userName=R&location=guangzhou&rsc=2&year0=2018&mon0=12&day0=1&hoursMin0=18:30&dst0=0&timeZone0=8&longitude0=118E4&latitude0=34N56&userName0=CD&location0=guangzhou
+
+<> 2018-12-27T041116.200.json
+
+###
+
+GET http://127.0.0.1:8080/astrolog?year=2018&mon=12&day=1&hoursMin=18:30&dst=0&timeZone=8&longitude=118E4&latitude=34N56&userName=R&location=guangzhou&rsc=2&year0=2018&mon0=12&day0=1&hoursMin0=18:30&dst0=0&timeZone0=8&longitude0=118E4&latitude0=34N56&userName0=CD&location0=guangzhou
+
+<> 2018-12-27T040948.200.json
+
+###
+
+GET http://127.0.0.1:8080/astrolog?year=2018&mon=12&day=1&hoursMin=18:30&dst=0&timeZone=8&longitude=118E4&latitude=34N56&userName=R&location=guangzhou&rsc=2&year0=2018&mon0=12&day0=1&hoursMin0=18:30&dst0=0&timeZone0=8&longitude0=118E4&latitude0=34N56&userName0=CD&location0=guangzhou
+
+###
+
+GET http://127.0.0.1:8080/astrolog?year=2018&mon=12&day=1&hoursMin=18:30&dst=0&timeZone=8&longitude=118E4&latitude=34N56&userName=R&location=guangzhou&rsc=2&year0=2018&mon0=12&day0=1&hoursMin0=18:30&dst0=0&timeZone0=8&longitude0=118E4&latitude0=34N56&userName0=CD&location0=guangzhou
+
+<> 2018-12-27T035540.200.json
+
+###
+
+GET http://127.0.0.1:8080/astrolog?year=2018&mon=12&day=1&hoursMin=18:30&dst=0&timeZone=8&longitude=118E4&latitude=34N56&userName=R&location=guangzhou&rsc=2&year0=2018&mon0=12&day0=1&hoursMin0=18:30&dst0=0&timeZone0=8&longitude0=118E4&latitude0=34N56&userName0=CD&location0=guangzhou
+
+<> 2018-12-27T035532.200.json
+
+###
+
+GET http://127.0.0.1:8080/astrolog?year=2018&mon=12&day=1&hoursMin=18:30&dst=0&timeZone=8&longitude=118E4&latitude=34N56&userName=R&location=guangzhou&rsc=2&year0=2018&mon0=12&day0=1&hoursMin0=18:30&dst0=0&timeZone0=8&longitude0=118E4&latitude0=34N56&userName0=CD&location0=guangzhou
+
+<> 2018-12-27T035215.200.json
+
+###
+
+GET http://127.0.0.1:8080/astrolog?year=2018&mon=12&day=1&hoursMin=18:30&dst=0&timeZone=8&longitude=118E4&latitude=34N56&userName=R&location=guangzhou&rsc=2&year0=2018&mon0=12&day0=1&hoursMin0=18:30&dst0=0&timeZone0=8&longitude0=118E4&latitude0=34N56&userName0=CD&location0=guangzhou
+
+<> 2018-12-27T035038.200.json
+
+###
+
+GET http://127.0.0.1:8080/astrolog?year=2018&mon=12&day=1&hoursMin=18:30&dst=0&timeZone=8&longitude=118E4&latitude=34N56&userName=R&location=guangzhou&rsc=2&year0=2018&mon0=12&day0=1&hoursMin0=18:30&dst0=0&timeZone0=8&longitude0=118E4&latitude0=34N56&userName0=CD&location0=guangzhou
+
+<> 2018-12-27T034835.200.json
+
+###
+
+GET http://127.0.0.1:8080/astrolog?year=2018&mon=12&day=1&hoursMin=18:30&dst=0&timeZone=8&longitude=118E4&latitude=34N56&userName=R&location=guangzhou&rsc=2&year0=2018&mon0=12&day0=1&hoursMin0=18:30&dst0=0&timeZone0=8&longitude0=118E4&latitude0=34N56&userName0=CD&location0=guangzhou
+
+###
+
+GET http://127.0.0.1:8080/astrolog?year=2018&mon=12&day=1&hoursMin=18:30&dst=0&timeZone=8&longitude=118E4&latitude=34N56&userName=R&location=guangzhou&rsc=2&year0=2018&mon0=12&day0=1&hoursMin0=18:30&dst0=0&timeZone0=8&longitude0=118E4&latitude0=34N56&userName0=CD&location0=guangzhou
+
+###
+
+GET http://127.0.0.1:8080/astrolog?year=2018&mon=12&day=1&hoursMin=18:30&dst=0&timeZone=8&longitude=118E4&latitude=34N56&userName=R&location=guangzhou&rsc=2&year0=2018&mon0=12&day0=1&hoursMin0=18:30&dst0=0&timeZone0=8&longitude0=118E4&latitude0=34N56&userName0=CD&location0=guangzhou
+
+###
+
+GET http://127.0.0.1:8080/astrolog?year=2018&mon=12&day=1&hoursMin=18:30&dst=0&timeZone=8&longitude=118E4&latitude=34N56&userName=R&location=guangzhou&rsc=2&year0=2018&mon0=12&day0=1&hoursMin0=18:30&dst0=0&timeZone0=8&longitude0=118E4&latitude0=34N56&userName0=CD&location0=guangzhou
+
+###
+
+GET http://127.0.0.1:8080/astrolog?year=2018&mon=12&day=1&hoursMin=18:30&dst=0&timeZone=8&longitude=118E4&latitude=34N56&userName=R&location=guangzhou&rsc=2&year0=2018&mon0=12&day0=1&hoursMin0=18:30&dst0=0&timeZone0=8&longitude0=118E4&latitude0=34N56&userName0=CD&location0=guangzhou
+
+###
+
+GET http://127.0.0.1:8080/astrolog?year=2018&mon=12&day=1&hoursMin=18:30&dst=0&timeZone=8&longitude=118E4&latitude=34N56&userName=R&location=guangzhou&rsc=2&year0=2018&mon0=12&day0=1&hoursMin0=18:30&dst0=0&timeZone0=8&longitude0=118E4&latitude0=34N56&userName0=CD&location0=guangzhou
+
+###
+
+GET http://127.0.0.1:8080/astrolog?year=2018&mon=12&day=1&hoursMin=18:30&dst=0&timeZone=8&longitude=118E4&latitude=34N56&userName=R&location=guangzhou&rsc=2&year0=2018&mon0=12&day0=1&hoursMin0=18:30&dst0=0&timeZone0=8&longitude0=118E4&latitude0=34N56&userName0=CD&location0=guangzhou
+
+###
+
+GET http://127.0.0.1:8080/astrolog?year=2018&mon=12&day=1&hoursMin=18:30&dst=0&timeZone=8&longitude=118E4&latitude=34N56&userName=R&location=guangzhou&rsc=2&year0=2018&mon0=12&day0=1&hoursMin0=18:30&dst0=0&timeZone0=8&longitude0=118E4&latitude0=34N56&userName0=CD&location0=guangzhou
+
+<> 2018-12-27T034743.200.json
+
+###
+
+GET http://127.0.0.1:8080/astrolog?year=2018&mon=12&day=1&hoursMin=18:30&dst=0&timeZone=8&longitude=118E4&latitude=34N56&userName=CD&location=guangzhou&rsc=2&year0=2018&mon0=12&day0=1&hoursMin0=18:30&dst0=0&timeZone0=8&longitude0=118E4&latitude0=34N56&userName0=CD&location0=guangzhou
+
+<> 2018-12-27T034724.200.json
+
+###
+
+GET http://127.0.0.1:8080/astrolog?year=2018&mon=12&day=1&hoursMin=18:30&dst=0&timeZone=8&longitude=118E4&latitude=34N56&userName=CD&location=guangzhou&rsc=1&year0=2018&mon0=12&day0=1&hoursMin0=18:30&dst0=0&timeZone0=8&longitude0=118E4&latitude0=34N56&userName0=CD&location0=guangzhou
+
+<> 2018-12-27T034646.200.json
+
+###
+
+GET http://127.0.0.1:8080/astrolog?year=2018&mon=12&day=1&hoursMin=18:30&dst=0&timeZone=8&longitude=118E4&latitude=34N56&userName=CD&location=guangzhou&rsc=1&year_=2018&mon_=12&day_=1&hoursMin_=18:30&dst_=0&timeZone_=8&longitude_=118E4&latitude_=34N56&userName_=CD&location_`=guangzhou
+
+<> 2018-12-27T034514.200.json
+
+###
+
+GET http://127.0.0.1:8080/astrolog?year=2018&mon=12&day=1&hoursMin=18:30&dst=0&timeZone=8&longitude=118E4&latitude=34N56&userName=CD&location=guangzhou&rsc=1&year_=2018&mon_=12&day_=1&hoursMin_=18:30&dst_=0&timeZone_=8&longitude_=118E4&latitude_=34N56&userName_=CD&location_`=guangzhou
+
+<> 2018-12-27T034426.200.json
+
+###
+
+GET http://127.0.0.1:8080/astrolog?year=2018&mon=12&day=1&hoursMin=18:30&dst=0&timeZone=8&longitude=118E4&latitude=34N56&userName=CD&location=guangzhou&rsc=1&year_=2018&mon_=12&day_=1&hoursMin_=18:30&dst_=0&timeZone_=8&longitude_=118E4&latitude_=34N56&userName_=CD&location_`=guangzhou
+
+<> 2018-12-27T034358-1.200.json
+
+###
+
+GET http://127.0.0.1:8080/astrolog?year=2018&mon=12&day=1&hoursMin=18:30&dst=0&timeZone=8&longitude=118E4&latitude=34N56&userName=CD&location=guangzhou&rsc=1&year_=2018&mon_=12&day_=1&hoursMin_=18:30&dst_=0&timeZone_=8&longitude_=118E4&latitude_=34N56&userName_=CD&location_`=guangzhou
+
+<> 2018-12-27T034358.200.json
+
+###
+
+GET http://127.0.0.1:8080/astrolog?year=2018&mon=12&day=1&hoursMin=18:30&dst=0&timeZone=8&longitude=118E4&latitude=34N56&userName=CD&location=guangzhou&rsc=1&year_=2018&mon_=12&day_=1&hoursMin_=18:30&dst_=0&timeZone_=8&longitude_=118E4&latitude_=34N56&userName_=CD&location_`=guangzhou
+
+<> 2018-12-27T034357.200.json
+
+###
+
+GET http://127.0.0.1:8080/astrolog?year=2018&mon=12&day=1&hoursMin=18:30&dst=0&timeZone=8&longitude=118E4&latitude=34N56&userName=CD&location=guangzhou&rsc=1&year_=2018&mon_=12&day_=1&hoursMin_=18:30&dst_=0&timeZone_=8&longitude_=118E4&latitude_=34N56&userName_=CD&location_`=guangzhou
+
+<> 2018-12-27T034355.200.json
+
+###
+
+GET http://127.0.0.1:8080/astrolog?year=2018&mon=12&day=1&hoursMin=18:30&dst=0&timeZone=8&longitude=118E4&latitude=34N56&userName=CD&location=guangzhou&rsc=1&year_=2018&mon_=12&day_=1&hoursMin_=18:30&dst_=0&timeZone_=8&longitude_=118E4&latitude_=34N56&userName_=CD&location_`=guangzhou
+
+<> 2018-12-27T034305.200.json
+
+###
+
+GET http://127.0.0.1:8080/astrolog?year=2018&mon=12&day=1&hoursMin=18:30&dst=0&timeZone=8&longitude=118E4&latitude=34N56&userName=CD&location=guangzhou&rsc=1&year_=2018&mon_=12&day_=1&hoursMin_=18:30&dst_=0&timeZone_=8&longitude_=118E4&latitude_=34N56&userName_=CD&location_`=guangzhou
+
+<> 2018-12-27T034123.200.json
+
+###
+
+GET http://127.0.0.1:8080/astrolog?year=2018&mon=12&day=1&hoursMin=18:30&dst=0&timeZone=8&longitude=118E4&latitude=34N56&userName=CD&location=guangzhou&rsc=1&year_=2018&mon_=12&day_=1&hoursMin_=18:30&dst_=0&timeZone_=8&longitude_=118E4&latitude_=34N56&userName_=CD&location_`=guangzhou
+
+<> 2018-12-27T033932.200.json
+
+###
+
+GET http://127.0.0.1:8080/astrolog?year=2018&mon=12&day=1&hoursMin=18:30&dst=0&timeZone=8&longitude=118E4&latitude=34N56&userName=CD&location=guangzhou&rsc=1&year_=2018&mon_=12&day_=1&hoursMin_=18:30&dst_=0&timeZone_=8&longitude_=118E4&latitude_=34N56&userName_=CD&location_`=guangzhou
+
+<> 2018-12-27T033923.200.json
+
+###
+
+GET http://127.0.0.1:8080/astrolog?year=2018&mon=12&day=1&hoursMin=18:30&dst=0&timeZone=8&longitude=118E4&latitude=34N56&userName=CD&location=guangzhou&rsc=1&year_=2018&mon_=12&day_=1&hoursMin_=18:30&dst_=0&timeZone_=8&longitude_=118E4&latitude_=34N56&userName_=CD&location_`=guangzhou
+
+<> 2018-12-27T033853.200.json
+
+###
+
+GET http://127.0.0.1:8080/astrolog?year=2018&mon=12&day=1&hoursMin=18:30&dst=0&timeZone=8&longitude=118E4&latitude=34N56&userName=CD&location=guangzhou&rsc=0
+
+<> 2018-12-27T032905.200.json
+
+###
+
+GET http://127.0.0.1:8080/astrolog?year=2018&mon=12&day=1&hoursMin=18:30&dst=0&timeZone=8&longitude=118E4&latitude=34N56&userName=CD&location=guangzhou&rsc=0
+
+<> 2018-12-27T032737.200.json
+
+###
+
+GET http://127.0.0.1:8080/astrolog?year=2018&mon=12&day=1&hoursMin=18:30&dst=0&timeZone=8&longitude=118E4&latitude=34N56&userName=A&location=guangzhou&rsc=0
+
+<> 2018-12-27T032721.200.json
+
+###
+
+GET http://127.0.0.1:8080/astrolog?year=2018&mon=12&day=1&hoursMin=18:30&dst=0&timeZone=8&longitude=118E4&latitude=34N56&userName=A&location=guangzhou&rsc=0
+
+###
+
+GET http://127.0.0.1:8080/astrolog?year=2018&mon=12&day=1&hoursMin=18:30&dst=0&timeZone=8&longitude=118E4&latitude=34N56&userName=A&location=guangzhou&rsc=0
+
+<> 2018-12-27T032509.200.json
+
+###
+
+GET http://127.0.0.1:8080/astrolog?year=2018&mon=12&day=1&hoursMin=18:30&dst=0&timeZone=8&longitude=118E4&latitude=34N56&userName=A&location=guangzhou
+
+<> 2018-12-27T032438.500.json
+
+###
+
+GET http://127.0.0.1:8080/astrolog?year=2018&mon=12&day=1&hoursMin=18:30&dst=0&timeZone=8&longitude=118E4&latitude=34N56&userName=A&location=guangzhou
+
+<> 2018-12-27T032342.500.json
+
+###
+
+GET http://127.0.0.1:8080/astrolog?year=2018&mon=12&day=1&hoursMin=18:30&dst=0&timeZone=8&longitude=118E4&latitude=34N56&userName=A&location=guangzhou
+
+<> 2018-12-27T032341.500.json
+
+###
+
