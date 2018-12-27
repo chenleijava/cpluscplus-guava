@@ -90,8 +90,10 @@ public:
  * 计算本命盘
  * @param chartInfo 基础信息
  * @param fGraphics 是否绘制图片 默认不处理
+ * @param nHouseSystem 宫位设置  详见 astrolog.h  文件中 _housesystem 结构体，默认是 hsPlacidus
  */
-std::string noRelationChart(ChartBaseInfo &chartInfo,int fGraphics=AstrologUtil::fGraphics );
+std::string noRelationChart(ChartBaseInfo &chartInfo,
+        int fGraphics=AstrologUtil::fGraphics,int nHouseSystem=hsPlacidus);
 
 
 /**
@@ -100,9 +102,11 @@ std::string noRelationChart(ChartBaseInfo &chartInfo,int fGraphics=AstrologUtil:
  * @param chartInfo1
  * @param relationshipchart  合盘类型
  * @param fGraphics
+ * @param nHouseSystem 宫位设置  详见 astrolog.h  文件中 _housesystem 结构体，默认是 hsPlacidus
  * @return
  */
-std::string relationChart(ChartBaseInfo &chartInfo0,ChartBaseInfo &chartInfo1,int relationshipchart,int fGraphics=AstrologUtil::fGraphics );
+std::string relationChart(ChartBaseInfo &chartInfo0,ChartBaseInfo &chartInfo1,int relationshipchart,
+        int fGraphics=AstrologUtil::fGraphics,int nHouseSystem=hsPlacidus);
 
 
 /**

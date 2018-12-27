@@ -33,10 +33,11 @@ AstrologUtil::AstrologUtil() {
  * @param chartInfo1
  * @param relationshipchart    合盘类型
  * @param fGraphics  是否绘制
+ * @param nHouseSystem 宫位设置
  * @return
  */
 std::string AstrologUtil::relationChart(ChartBaseInfo &chartInfo0,ChartBaseInfo &chartInfo1,
-        int relationshipchart,int fGraphics){
+        int relationshipchart,int fGraphics,int  nHouseSystem){
     std::lock_guard<std::mutex>lockGuard(astrolog_mutex);
 #ifdef USE_DEBUG
     time_t begin=DateUtil::currentTimeMillis();
@@ -98,8 +99,7 @@ std::string AstrologUtil::relationChart(ChartBaseInfo &chartInfo0,ChartBaseInfo 
     us.fGraphics=fGraphics; //不绘制图片  -- 文本 输出
     us.fAnsiColor=0; // 不输出 彩色 字体 转义
     us.fAnsiChar=0; //ansi 转义输出符号 丢弃
-   // us.nHouseSystem=hsPlacidus;// 宫位设置 todo
-
+    us.nHouseSystem=nHouseSystem;// 宫位设置
 
     std::string tmpData;
     if(do_flg){
@@ -122,9 +122,10 @@ std::string AstrologUtil::relationChart(ChartBaseInfo &chartInfo0,ChartBaseInfo 
  * 本命盘计算
  * @param chartInfo
  * @param fGraphics
+ * @param nHouseSystem 宫位设置
  * @return
  */
-std::string AstrologUtil::noRelationChart(ChartBaseInfo &chartInfo,int fGraphics){
+std::string AstrologUtil::noRelationChart(ChartBaseInfo &chartInfo,int fGraphics,int nHouseSystem){
 
     std::lock_guard<std::mutex>lockGuard(astrolog_mutex);
 #ifdef USE_DEBUG
@@ -165,10 +166,13 @@ std::string AstrologUtil::noRelationChart(ChartBaseInfo &chartInfo,int fGraphics
     char *v[]={v0,v1,v2};
     int do_flg=FProcessSwitches(3,v); // 处理输入命令
 
+
+    // 基础参数设置
     us.nRel=None; //计算本命盘
     us.fGraphics=fGraphics; //不绘制图片  -- 文本 输出
     us.fAnsiColor=0; // 不输出 彩色 字体 转义
     us.fAnsiChar=0; //ansi 转义输出符号 丢弃
+    us.nHouseSystem=nHouseSystem;// 宫位设置
 
 
     std::string tmpData;

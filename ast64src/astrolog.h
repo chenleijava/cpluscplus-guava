@@ -680,8 +680,8 @@ enum _aspects {
 /* House systems 宫位设置*/
 
 enum _housesystem {
-  hsPlacidus      = 0,
-  hsKoch          = 1,
+  hsPlacidus      = 0, // placidus 宫位
+  hsKoch          = 1,  // Koch 宫位
   hsEqual         = 2,
   hsCampanus      = 3,
   hsMeridian      = 4,
