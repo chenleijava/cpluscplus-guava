@@ -41,7 +41,7 @@ class GreeterServiceImpl final : public Greeter::Service {
         std::shared_ptr<AstrologUtil> astrologUtil = AstrologUtil::getInstance();
         real lon = astrologUtil->parseLon("118E4");
         real lan = astrologUtil->parseLat("34N56");
-        ChartBaseInfo chartBaseInfo = {2018, 12, 20, "18:30", 0.0, 8.0, lon, lan, "江海韬", "guangzhou"};
+        ChartBaseInfo chartBaseInfo = {2018, 12, 20, "18:30", 0.0, 8.0, lon, lan, "jiang_cdx", "guangzhou"};
         std::string tmpData = astrologUtil->noRelationChart(chartBaseInfo);
         reply->set_message(tmpData + request->name());
         return Status::OK; // return  grpc  status ?!
