@@ -1,0 +1,9 @@
+cmake-build-debug
+build
+ast64src/bin
+.idea
+grpc-1.17.2/bin
+grpc-1.17.2/.github
+grpc-1.17.2/.vscode
+grpc-1.17.2.zip
+ast64src.zip

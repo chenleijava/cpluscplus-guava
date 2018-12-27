@@ -1,0 +1,35 @@
+# For a quick start check out our HTTP Requests collection (Tools|HTTP Client|Open HTTP Requests Collection).
+#
+# Following HTTP Request Live Templates are available:
+# * 'gtrp' and 'gtr' create a GET request with or without query parameters;
+# * 'ptr' and 'ptrp' create a POST request with a simple or parameter-like body;
+# * 'mptr' and 'fptr' create a POST request to submit a form with a text or file field (multipart/form-data);
+
+
+POST http://127.0.0.1:8080/index
+#####
+
+
+GET http://127.0.0.1:8080/index
+#####
+
+GET http://127.0.0.1:8080/astrolog?year=2018&mon=12&day=1&hoursMin=18:30&dst=0&timeZone=-8&longitude=118E4&latitude=34N56&userName=CD&location=guangzhou&rsc=0
+#####
+
+GET http://127.0.0.1:8080/astrolog?year=2018&mon=12&day=1&hoursMin=18:30&dst=0&timeZone=8&longitude=118E4&latitude=34N56&userName=R&location=guangzhou&rsc=2&year0=2018&mon0=12&day0=1&hoursMin0=18:30&dst0=0&timeZone0=-8&longitude0=118E4&latitude0=34N56&userName0=CD&location0=guangzhou
+#####
+
+GET http://127.0.0.1:8080/resource?name=中文111测试
+#####
+
+GET http://10.0.0.193:8080/resource?name=中文111测试&key=0190
+#####
+
+GET http://127.0.0.1:8080/resource?name=%E4%B8%AD%E6%96%87111%E6%B5%8B%E8%AF%95%E8%A7%86%E5%9B%BE%E5%93%A5%E5%93%A5%E5%93%A5%E5%93%A5%20%E6%8C%89%E6%97%B6%E6%89%93%E7%AE%97%E5%A4%A7%E6%89%80%E5%A4%A7%E6%89%80%E5%A4%9A
+####
+
+
+GET http://172.16.187.139:8080/index
+
+####
+

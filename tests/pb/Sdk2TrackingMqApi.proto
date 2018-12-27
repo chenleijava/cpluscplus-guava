@@ -1,0 +1,25 @@
+//sdk 2 tracking 数据统计分析交互协议
+
+syntax = "proto3";
+option java_multiple_files = true;
+package pb;
+
+//服务器下发次数统计
+//sdk统计数据类型
+enum DataType {
+    NONE = 0;
+    PLATFORM_AD = 1; //平台广告 GDT
+    VIDEO_AD = 2; //视频业务
+    OWN_AD = 3; //自有广告
+    DOU_YIN_AD = 4; //抖音业务
+    UN_HIT = 5; //策略未命中
+    LIMIT_TIME = 6; //限制访问频率
+    LOGIC_ERROR = 7; // 逻辑异常
+    LOCK_SCREEN = 8; //客户端锁屏状态
+    GAME62_DATA = 9; //标记此数据来自于许教泳
+}
+//媒体 广告位详情
+message AdInfo {
+    string appName = 1; // 媒体位|应用名称
+    string adSpaceName = 2; // 广告位
+}
